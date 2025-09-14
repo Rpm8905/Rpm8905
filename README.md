@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img  align="center" alt="Coding-for-life" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"/>
+
 
 <!--
 **Rpm8905/Rpm8905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
